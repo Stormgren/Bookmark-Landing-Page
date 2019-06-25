@@ -62,7 +62,7 @@ padding-top: 30px;
     /* padding-right:30px; */
 }
 
-.download{
+.download, .faq{
     text-align: center;
 }
 
@@ -71,6 +71,6 @@ padding-top: 30px;
 }
 .browsers{
     /* margin: 30px; */
-    padding: 50px;
+    padding: 30px;
 }
 
