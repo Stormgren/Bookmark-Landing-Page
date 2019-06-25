@@ -1,11 +1,47 @@
-.nav-mobile{
-    display: none;
-    
+nav{
+    margin-bottom: 30px;
 }
-@media (max-width: 500px){
-    .nav-mobile{
-        display: flex;
-        flex-direction: column;
+/* .background{
+    background: blue;
+    height: 400px;
+    width: 375px;
+    /* max-width: 840px; */
+    /* border-radius: 200px 0 0 200px;
+    position: absolute;
+    right: 0;
+    top: 180px;
+    padding-left: 50%; */
+    /* padding-right: 55%; */
+    /* z-index: 0; */
+    /* bottom: 30px; */
 
-    }
+/* } */
+.illustration{
+    min-width: 350px;
+    max-width: 120%;
+    margin: 0 auto;
+    height: auto;
+    padding-right:30px;
+    /* height: 100vh; */
+} 
+.manager__header{
+font-size: 2.5rem;
+padding-top: 30px;
+
+}
+
+.manager{
+    max-width: 370px;
+    /* min-width: 300px; */
+}
+
+
+.btn{
+    margin: 5px;
+}
+
+.illustration{
+    /* border: 5px solid black;
+    border-radius: 30px; */
+    /* margin-left: -50px; */
 }
