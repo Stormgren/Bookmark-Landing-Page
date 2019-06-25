@@ -61,3 +61,16 @@ padding-top: 30px;
     /* height: auto; */
     /* padding-right:30px; */
 }
+
+.download{
+    text-align: center;
+}
+
+.card{
+    width: 350px;
+}
+.browsers{
+    /* margin: 30px; */
+    padding: 50px;
+}
+
