@@ -1,7 +1,3 @@
-// document.addEventListener('DOMContentLoaded', function() {
-//     var elems = document.querySelectorAll('.sidenav');
-//     var instances = M.Sidenav.init(elems, options);
-//   });
-
-var instance = M.Tabs.init(el, options);
-instance.select('tab_id');
+$(document).ready(function(){
+    $('.sidenav').sidenav();
+})
